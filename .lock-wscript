@@ -1,0 +1,9 @@
+argv = ['/usr/local/bin/node-waf', 'configure', 'build']
+blddir = '/Users/avilabf/developer/nodejs-example/build'
+commands = {'dist': 0, 'configure': True, 'distcheck': 0, 'install': 0, 'build': True, 'clean': 0, 'distclean': 0, 'check': 0, 'uninstall': 0}
+cwd = '/Users/avilabf/developer/nodejs-example'
+environ = {'TERM_SESSION_ID': 'B7AD6314-079B-4851-9BEB-302592E4E730', 'SSH_AUTH_SOCK': '/tmp/launch-VdXlmF/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '303', 'SHELL': '/bin/bash', 'LOGNAME': 'avilabf', 'USER': 'avilabf', 'HOME': '/Users/avilabf', 'PATH': '/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin', 'DISPLAY': '/tmp/launch-tNySAu/org.x:0', 'TMPDIR': '/var/folders/hw/464cxvv15z76t87nf3jlz70m3hhrjl/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-XIFAe1/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '1', 'OLDPWD': '/usr/local/lib/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/examples', '__CF_USER_TEXT_ENCODING': '0x7086233:0:0', 'Apple_Ubiquity_Message': '/tmp/launch-t972yN/Apple_Ubiquity_Message', 'PWD': '/Users/avilabf/developer/nodejs-example', '_': '/usr/local/bin/node-waf', 'COMMAND_MODE': 'unix2003'}
+files = []
+hash = 0
+options = {'compile_targets': None, 'force': False, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'destdir': '', 'keep': False, 'zones': '', 'blddir': '', 'prefix': '/usr/local/', 'jobs': 16, 'srcdir': '', 'check_cxx_compiler': 'g++'}
+srcdir = '/Users/avilabf/developer/nodejs-example'
